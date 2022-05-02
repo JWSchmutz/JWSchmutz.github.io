@@ -4,7 +4,7 @@ const data = [
     projects: [
       {
         title: "Week Medical Supplies",
-        url: "https://weekmedicalsupplies.herokuapp.com/",
+        url: "https://week-medical-supplies.herokuapp.com/",
         image: "week-medical-supplies.jpg",
       },
       {
@@ -22,6 +22,11 @@ const data = [
   {
     groupName: "React",
     projects: [
+      {
+        title: "Pokedex",
+        url: "https://pokedex-full.herokuapp.com/",
+        image: "pokedex.jpg",
+      },
       {
         title: "NBA Memory",
         url: "https://jwschmutz.github.io/clicky/",

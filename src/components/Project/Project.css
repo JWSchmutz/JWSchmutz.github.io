@@ -29,11 +29,11 @@
   width: 90%;
   text-align: center;
   margin-left: 5%;
-  opacity: .95;
-  transition: .4s;
+  opacity: 0.95;
+  transition: 0.4s;
 }
 
-.project:hover .project-title{
+.project:hover .project-title {
   font-size: 23px;
 }
 
@@ -59,7 +59,7 @@
     font-size: 17px;
   }
 
-  .project:hover .project-title{
+  .project:hover .project-title {
     font-size: 20px;
   }
 }
@@ -67,7 +67,7 @@
 @media (max-width: 767px) {
   .project-container {
     width: 180px;
-    height: 252Px;
+    height: 252px;
     margin: 10px;
   }
 
@@ -85,7 +85,7 @@
     height: 280px;
     transform: translate(-10px);
   }
-  .project:hover .project-title{
+  .project:hover .project-title {
     font-size: 17px;
   }
 }
@@ -112,7 +112,7 @@
     transform: translate(-10px);
   }
 
-  .project:hover .project-title{
+  .project:hover .project-title {
     font-size: 14px;
   }
 }
