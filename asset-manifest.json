@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.309492ab.chunk.css",
-    "main.js": "/static/js/main.89954be0.chunk.js",
-    "main.js.map": "/static/js/main.89954be0.chunk.js.map",
+    "main.css": "/static/css/main.3436b3fd.chunk.css",
+    "main.js": "/static/js/main.c0f6f98c.chunk.js",
+    "main.js.map": "/static/js/main.c0f6f98c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06b5035f.js",
     "runtime-main.js.map": "/static/js/runtime-main.06b5035f.js.map",
     "static/js/2.1ca5cf12.chunk.js": "/static/js/2.1ca5cf12.chunk.js",
     "static/js/2.1ca5cf12.chunk.js.map": "/static/js/2.1ca5cf12.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.309492ab.chunk.css.map": "/static/css/main.309492ab.chunk.css.map",
+    "static/css/main.3436b3fd.chunk.css.map": "/static/css/main.3436b3fd.chunk.css.map",
     "static/js/2.1ca5cf12.chunk.js.LICENSE.txt": "/static/js/2.1ca5cf12.chunk.js.LICENSE.txt",
     "static/media/beat-the-shroom.jpg": "/static/media/beat-the-shroom.8a23b159.jpg",
     "static/media/clicky.jpg": "/static/media/clicky.8bea224e.jpg",
@@ -16,6 +16,7 @@
     "static/media/me.jpg": "/static/media/me.dabe211b.jpg",
     "static/media/patient-link.jpg": "/static/media/patient-link.5ae601d7.jpg",
     "static/media/poke-chess.jpg": "/static/media/poke-chess.986cd400.jpg",
+    "static/media/pokedex.jpg": "/static/media/pokedex.adb9cce1.jpg",
     "static/media/pokemon-rpg.jpg": "/static/media/pokemon-rpg.d917e43b.jpg",
     "static/media/portfolio.jpg": "/static/media/portfolio.a2f25f9f.jpg",
     "static/media/seagrove-tcg.jpg": "/static/media/seagrove-tcg.672cff2f.jpg",
@@ -24,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.06b5035f.js",
     "static/js/2.1ca5cf12.chunk.js",
-    "static/css/main.309492ab.chunk.css",
-    "static/js/main.89954be0.chunk.js"
+    "static/css/main.3436b3fd.chunk.css",
+    "static/js/main.c0f6f98c.chunk.js"
   ]
 }
