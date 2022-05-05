@@ -48,6 +48,11 @@ const data = [
         image: "beat-the-shroom.jpg",
       },
       {
+        title: "NBA Memory",
+        url: "https://jwschmutz.github.io/clicky/",
+        image: "clicky.jpg",
+      },
+      {
         title: "Pokemon RPG",
         url: "https://jwschmutz.github.io/PokemonRPG/",
         image: "pokemon-rpg.jpg",
