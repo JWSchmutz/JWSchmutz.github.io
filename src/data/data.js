@@ -1,6 +1,6 @@
 const data = [
   {
-    groupName: "Handlebars",
+    groupName: "Full Stack",
     projects: [
       {
         title: "Week Medical Supplies",
@@ -8,9 +8,9 @@ const data = [
         image: "week-medical-supplies.jpg",
       },
       {
-        title: "Seagrove TCG",
-        url: "https://www.seagrovetcg.com/",
-        image: "seagrove-tcg.jpg",
+        title: "Pokedex",
+        url: "https://pokedex-full.herokuapp.com/",
+        image: "pokedex.jpg",
       },
       {
         title: "Patient Link",
