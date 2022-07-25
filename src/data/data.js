@@ -1,6 +1,6 @@
 const data = [
   {
-    groupName: "Full Stack",
+    groupName: "Apps with Databases",
     projects: [
       {
         title: "Week Medical Supplies",
@@ -13,9 +13,9 @@ const data = [
         image: "pokedex.jpg",
       },
       {
-        title: "Patient Link",
-        url: "https://patient-link.herokuapp.com/",
-        image: "patient-link.jpg",
+        title: "New Life Farm SC",
+        url: "https://www.newlifefarmsc.com/",
+        image: "new-life-farm.jpg",
       },
     ],
   },
