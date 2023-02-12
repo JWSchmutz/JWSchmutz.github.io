@@ -3,19 +3,19 @@ const data = [
     groupName: "Apps with Databases",
     projects: [
       {
-        title: "Week Medical Supplies",
-        url: "https://week-medical-supplies.herokuapp.com/",
-        image: "week-medical-supplies.jpg",
-      },
-      {
-        title: "Pokedex",
-        url: "https://pokedex-full.herokuapp.com/",
-        image: "pokedex.jpg",
+        title: "LoL Estats",
+        url: "https://jwschmutz.github.io/lolestats/#/tournaments",
+        image: "lolestats.jpg",
       },
       {
         title: "New Life Farm SC",
         url: "https://www.newlifefarmsc.com/",
         image: "new-life-farm.jpg",
+      },
+      {
+        title: "LCS Schedule",
+        url: "https://jwschmutz.github.io/lcs/",
+        image: "lcs.jpg",
       },
     ],
   },
@@ -23,9 +23,9 @@ const data = [
     groupName: "React",
     projects: [
       {
-        title: "Pokedex",
-        url: "https://pokedex-full.herokuapp.com/",
-        image: "pokedex.jpg",
+        title: "LoL Estats",
+        url: "https://jwschmutz.github.io/lolestats/#/tournaments",
+        image: "lolestats.jpg",
       },
       {
         title: "NBA Memory",
@@ -53,8 +53,8 @@ const data = [
         image: "clicky.jpg",
       },
       {
-        title: "Pokemon RPG",
-        url: "https://jwschmutz.github.io/PokemonRPG/",
+        title: "Who's that Pokemon?",
+        url: "https://jwschmutz.github.io/poke-guess/",
         image: "pokemon-rpg.jpg",
       },
     ],
