@@ -1,0 +1,101 @@
+body{
+    padding-bottom: 40px;
+}
+
+.navbar-light{
+    background-color:#f0db4f!important;
+    box-shadow:  0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin-bottom: 2rem;
+}
+
+#jeremiah{
+    background: url(h2-bg-1.jpg) no-repeat center center; 
+    background-size: contain; 
+
+    padding-left: 15px;
+    margin-left: -5px;
+    padding-right: 15px;
+    margin-right: -15px;
+}
+
+h2{
+    position: relative;
+    padding-left: 15px;
+}
+
+#about-h2 { 
+    background: url(h2-bg-2.jpg) no-repeat -15px center; 
+}
+  
+.portrait-holder{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: url(bg.jpg) no-repeat;
+    background-size: contain; 
+    background-position: center center;
+}
+
+.portrait{
+    max-width: 50vw;
+    width: 100%;
+    /* filter:sepia(61%) saturate(468%) hue-rotate(356deg) brightness(92%) contrast(101%); */
+    filter:sepia(61%) saturate(428%) hue-rotate(356deg) brightness(92%) contrast(101%);
+}
+
+#projects-h2 { 
+    background: url(h2-bg-3.jpg) no-repeat -25px center; 
+}
+
+h3{
+    color: var(--mdb-gray-600);
+}
+
+#new-life-farm-image, #lolestats-image, #beat-the-shroom-image{
+    filter: grayscale(1) sepia(61%) saturate(468%) hue-rotate(370deg) brightness(103%) contrast(101%)
+}
+
+#lolestats-image{
+    filter: grayscale(1) sepia(61%) saturate(468%) hue-rotate(370deg) brightness(103%) contrast(101%)
+}
+
+
+#contact-h2 { 
+    background: url(h2-bg-4.jpg) no-repeat -30px center ; 
+}
+
+.card{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.card-body{
+    background-color: #323330;
+    color: #f0db4f;
+}
+
+.normal-img{
+    opacity: 0;
+    position: absolute;
+    transition: all .5s;
+}
+.card:hover .normal-img{
+    opacity: 1;
+}
+
+
+.btn-primary, .btn-primary:focus, .btn-primary:active, .btn-primary:visited, .btn-primary:focus{
+    background-color: #323330 !important;
+    color: #f0db4f!important;
+    border: 2px solid #f0db4f!important;
+    box-shadow: 0 4px 9px -4px #f0db4f!important;
+}
+.btn-primary:hover, .btn-primary:focus-visible{
+    color: #323330!important;
+    background-color: #f0db4f!important;
+    border: 2px solid #323330!important;
+    box-shadow: 0 8px 9px -4px rgba(240,219,79,.3), 0 4px 18px 0 rgba(240,219,79,.2) !important;
+}
+
+#contact p {
+    line-height: 40px;
+}
