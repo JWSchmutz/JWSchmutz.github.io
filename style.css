@@ -1,7 +1,3 @@
-body{
-    padding-bottom: 40px;
-}
-
 .navbar-light{
     background-color:#f0db4f!important;
     box-shadow:  0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
@@ -96,6 +92,24 @@ h3{
     box-shadow: 0 8px 9px -4px rgba(240,219,79,.3), 0 4px 18px 0 rgba(240,219,79,.2) !important;
 }
 
-#contact p {
-    line-height: 40px;
+.email-btn{
+    margin-top: 10px;
+}
+
+.resume-btn{
+    margin-right: 38px;
+}
+
+footer.bg-dark{
+    background-color: #323330 !important;
+    color: #f0db4f!important;
+}
+
+
+@media screen and (max-width: 767px){
+    h2{
+        text-align: center;
+        background-position: center!important;
+        padding-left: 0;
+    }
 }
