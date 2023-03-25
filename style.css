@@ -47,7 +47,7 @@ h3{
     color: var(--mdb-gray-600);
 }
 
-#new-life-farm-image, #lolestats-image, #beat-the-shroom-image{
+#new-life-farm-image, #lolestats-image, #beat-the-shroom-image, #pkmn-cooks-image{
     filter: grayscale(1) sepia(61%) saturate(468%) hue-rotate(370deg) brightness(103%) contrast(101%)
 }
 
